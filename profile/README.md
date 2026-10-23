@@ -27,6 +27,15 @@ Our first-generation reasoning model — **32B params, 4-bit**, Apache 2.0.
 
 ## 🎨 Make this README yours
 
+### 👩‍💻 Tanishka — Building with Local-First AI
+
+ECE student at NIT Hamirpur exploring AI, electronics, web development, and open-source technologies. Excited about making AI more accessible through local-first and offline-friendly tools.
+
+![Tanishka's Local-First Tech Journey](../Tanishka%E2%80%99s%20Local-First%20Tech%20Journey.png)
+
+`#GoodFirstAlpie`
+
+
 Pick anything we've built at 169pi — a model, a capability, a benchmark — and
 turn it into something that belongs on our front door: art, a diagram, a demo,
 a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
